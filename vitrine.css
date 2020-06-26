@@ -1,0 +1,36 @@
+head {
+    font-family: "Open Sans";
+    font-size: "14px";
+}
+header {
+    font-family: "Open Sans";
+    font-size: 14px;
+    background-color: #f2f2f2;
+    background-image:url("texture-header.jpg");
+    height: 150px;
+    font-family: "nasalization-rf.ttf" src="C:\Users\Sarah\Desktop\ISCC-2020\Jour-04\ISCC-2020-J04\nasalization-rg.ttf";
+    font-size: 40px;
+    text-align: center;
+    color: #27d1ff;
+} 
+#na {
+	padding: 0; margin: 0;
+	text-align: center; 
+}
+#na li {
+	display: inline;
+    list-style: none;
+    background-color: #2e2f30;
+}
+#na a {
+	display:inline-block;
+	margin: 0 30px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+
+
